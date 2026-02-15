@@ -1,4 +1,4 @@
-# Mirror Mirror
+# mirrormirror
 
 A smart mirror display built with SvelteKit. Shows the time, date, and a 5-day weather forecast.
 
